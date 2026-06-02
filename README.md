@@ -1,3 +1,2 @@
-лаунер проекта Liovera.
-
+Liovera's Official Minecraft Launcher
 
