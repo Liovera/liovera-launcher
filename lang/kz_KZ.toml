@@ -5,7 +5,7 @@ usernameEditButton = "Edit"
 settingsTooltip = "Баптаулар"
 serverStatus = "СЕРВЕР"
 serverStatusPlaceholder = "ОФФЛАЙН"
-mojangStatus = "Voxelara"
+mojangStatus = "Liovera"
 mojangStatusTooltipTitle = "Қызметтер"
 mojangStatusNETitle = "Non&nbsp;Essential"
 newsButton = "Жаңалықтар"
@@ -31,7 +31,7 @@ loginRememberMeText = "remember me?"
 loginButtonText = "КІРУ"
 loginNeedAccountLink = "https://hm380678.webhm.pro/"
 loginNeedAccountText = "Аккаунт қажет пе?"
-loginPasswordDisclaimer1 = "Сіздің логиніңіз Voxelara серверлерінде сақталмайды."
+loginPasswordDisclaimer1 = "Сіздің логиніңіз Liovera серверлерінде сақталмайды."
 loginPasswordDisclaimer2 = "Қарақшылық авторизация сіздің деректеріңіз үшін 100% қауіпсіз."
 
 [ejs.loginOptions]
@@ -215,8 +215,8 @@ checking = "Жаңалықтар тексерілуде"
 
 [js.landing.discord]
 loading = "Ойын жүктелуде..."
-joining = "Voxelara серверіне қосылуда!"
-joined = "Voxelara зерттелуде!"
+joining = "Liovera серверіне қосылуда!"
+joined = "Liovera зерттелуде!"
 
 [js.overlay]
 dismiss = "Dismiss"

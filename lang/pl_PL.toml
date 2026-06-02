@@ -5,7 +5,7 @@ usernameEditButton = "Edytuj"
 settingsTooltip = "Ustawienia"
 serverStatus = "SERWER"
 serverStatusPlaceholder = "OFFLINE"
-mojangStatus = "Voxelara"
+mojangStatus = "Liovera"
 mojangStatusTooltipTitle = "Serwisy"
 mojangStatusNETitle = "Nie&nbsp;istotne"
 newsButton = "Aktualności"
@@ -31,7 +31,7 @@ loginRememberMeText = "zapamiętaj mnie?"
 loginButtonText = "ZALOGUJ"
 loginNeedAccountLink = "https://hm380678.webhm.pro/"
 loginNeedAccountText = "Potrzebujesz konta?"
-loginPasswordDisclaimer1 = "Twoje dane logowania nie są przechowywane na serwerach Voxelara."
+loginPasswordDisclaimer1 = "Twoje dane logowania nie są przechowywane na serwerach Liovera."
 loginPasswordDisclaimer2 = "Złamane logowanie jest w 100% bezpieczne dla Twoich danych."
 
 [ejs.loginOptions]
@@ -213,8 +213,8 @@ checking = "Wyszukiwanie wiadomości..."
 
 [js.landing.discord]
 loading = "Ładowanie gry..."
-joining = "Dołączanie do Voxelara!"
-joined = "Odkrywamy Voxelara!"
+joining = "Dołączanie do Liovera!"
+joined = "Odkrywamy Liovera!"
 
 [js.overlay]
 dismiss = "Odrzuć"

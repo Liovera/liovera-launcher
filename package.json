@@ -1,13 +1,13 @@
 {
-    "name": "VoxelaraLauncher",
+    "name": "liovera-launcher",
     "version": "1.0.6",
-    "productName": "VoxelaraLauncher",
-    "description": "Voxelara official launcher",
-    "author": "Shisuys (https://github.com/shisuiicaro/) modified by Lepfory",
+    "productName": "liovera-launcher",
+    "description": "Liovera official launcher",
+    "author": "LEPFORY (https://github.com/LEPFORY/) modified by Liovera",
     "license": "UNLICENSED",
-    "homepage": "https://github.com/LEPFORY/C-Voxelara-Launcher",
+    "homepage": "https://github.com/Liovera/liovera-lauhcher",
     "bugs": {
-        "url": "https://discord.gg/LEPFORY"
+        "url": "https://discord.gg/KwZ5zk4yyg"
     },
     "private": true,
     "main": "index.js",
@@ -47,6 +47,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/LEPFORY/C-Voxelara-Launcher.git"
+        "url": "git+https://github.com/Liovera/liovera-launcher.git"
     }
 }

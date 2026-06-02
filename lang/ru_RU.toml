@@ -5,7 +5,7 @@ usernameEditButton = "Edit"
 settingsTooltip = "Настройки"
 serverStatus = "СЕРВЕР"
 serverStatusPlaceholder = "ОФФЛАЙН"
-mojangStatus = "Voxelara"
+mojangStatus = "Liovera"
 mojangStatusTooltipTitle = "Сервисы"
 mojangStatusNETitle = "Non&nbsp;Essential"
 newsButton = "Новости"
@@ -31,7 +31,7 @@ loginRememberMeText = "remember me?"
 loginButtonText = "ЛОГИН"
 loginNeedAccountLink = "https://hm380678.webhm.pro/"
 loginNeedAccountText = "Нужен аккаунт?"
-loginPasswordDisclaimer1 = "Ваш логин не сохраняется на серверах Voxelara."
+loginPasswordDisclaimer1 = "Ваш логин не сохраняется на серверах Liovera."
 loginPasswordDisclaimer2 = "Крякнутая авторизация 100% безопасна для ваших данных."
 
 [ejs.loginOptions]
@@ -215,8 +215,8 @@ checking = "Ищем новости..."
 
 [js.landing.discord]
 loading = "Загружаем игру.."
-joining = "Присоединяемся к Voxelara!"
-joined = "Исследуем Voxelara!"
+joining = "Присоединяемся к Liovera!"
+joined = "Исследуем Liovera!"
 
 [js.overlay]
 dismiss = "Отклонить"

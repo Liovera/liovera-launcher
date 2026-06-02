@@ -5,7 +5,7 @@ usernameEditButton = "Edit"
 settingsTooltip = "设置"
 serverStatus = "服务器"
 serverStatusPlaceholder = "离线"
-mojangStatus = "Voxelara"
+mojangStatus = "Liovera"
 mojangStatusTooltipTitle = "服务"
 mojangStatusNETitle = "Non-Essential"
 newsButton = "新闻"
@@ -31,7 +31,7 @@ loginRememberMeText = "Remember me?"
 loginButtonText = "Login"
 loginNeedAccountLink = "https://hm380678.webhm.pro/"
 loginNeedAccountText = "需要账号？"
-loginPasswordDisclaimer1 = "您的登录信息不会保存在 Voxelara 服务器上。"
+loginPasswordDisclaimer1 = "您的登录信息不会保存在 Liovera 服务器上。"
 loginPasswordDisclaimer2 = "Cracked 登录对您的数据 100% 安全。"
 
 [ejs.loginOptions]
@@ -214,8 +214,8 @@ checking = "正在检查新闻..."
 
 [js.landing.discord]
 loading = "正在加载游戏.."
-joining = "正在加入 Voxelara!"
-joined = "正在探索 Voxelara!"
+joining = "正在加入 Liovera!"
+joined = "正在探索 Liovera!"
 
 [js.overlay]
 dismiss = "关闭"

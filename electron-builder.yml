@@ -1,8 +1,8 @@
-appId: 'VoxelaraLauncher'
-productName: 'VoxelaraLauncher'
+appId: 'liovera-launcher'
+productName: 'liovera-launcher'
 artifactName: '${productName}-setup-${version}.${ext}'
 
-copyright: 'Copyright © 2024-2025 Lepfory'
+copyright: 'Copyright © 2026 Liovera'
 
 asar: true
 compression: 'maximum'
@@ -40,10 +40,10 @@ mac:
 # Linux Configuration
 linux: 
   target: 'AppImage'
-  maintainer: 'Shisuys'
-  vendor: 'Shisuys'
-  synopsis: 'Voxelara Minecraft Launcher'
-  description: 'Oficial Laucnher For All Voxelara Projects'
+  maintainer: 'Liovera'
+  vendor: 'Liovera'
+  synopsis: 'Liovera Minecraft Launcher'
+  description: 'Liovera Launcher, forked from Voxelara launcher and Helios Launcher'
   category: 'Game'
 
 

@@ -5,7 +5,7 @@ usernameEditButton = "Edit"
 settingsTooltip = "設定"
 serverStatus = "サーバー"
 serverStatusPlaceholder = "オフライン"
-mojangStatus = "Voxelara"
+mojangStatus = "Liovera"
 mojangStatusTooltipTitle = "サービス"
 mojangStatusNETitle = "Non-Essential"
 newsButton = "ニュース"
@@ -31,7 +31,7 @@ loginRememberMeText = "Remember me?"
 loginButtonText = "Login"
 loginNeedAccountLink = "https://hm380678.webhm.pro/"
 loginNeedAccountText = "アカウントが必要ですか？"
-loginPasswordDisclaimer1 = "あなたのログイン情報は Voxelara サーバーに保存されません。"
+loginPasswordDisclaimer1 = "あなたのログイン情報は Liovera サーバーに保存されません。"
 loginPasswordDisclaimer2 = "Cracked ログインはデータに対して 100% 安全です。"
 
 [ejs.loginOptions]
@@ -212,8 +212,8 @@ checking = "ニュースを検索中..."
 
 [js.landing.discord]
 loading = "ゲームを読み込み中..."
-joining = "Voxelara に参加中！"
-joined = "Voxelara を探索中！"
+joining = "Liovera に参加中！"
+joined = "Liovera を探索中！"
 
 [js.overlay]
 dismiss = "閉じる"
