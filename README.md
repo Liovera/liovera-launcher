@@ -1,2 +1,2 @@
-Liovera's Official Minecraft Launcher
+Liovera's official minecraft launcher
 
