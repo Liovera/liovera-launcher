@@ -1076,6 +1076,7 @@ let langCodes = {
     "kz_KZ": "Қазақша",
     "jp_JP": "日本語",
     "cn_CN": "汉语",
+    "tr_TR": "Türkçe",
 } 
 
 async function resolveLanguageForUI() {

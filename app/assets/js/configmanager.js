@@ -82,14 +82,14 @@ const DEFAULT_CONFIG = {
             resWidth: 1280,
             resHeight: 720,
             fullscreen: false,
-            autoConnect: true,
+            autoConnect: false,
             launchDetached: true,
             SyncLanguage: true
         },
         launcher: {
             resWidth: 1920,
             resHeight: 1080,
-            language: 'en_US',
+            language: 'tr_TR',
             allowPrerelease: false,
             dataDirectory: dataPath
         }
